@@ -30,5 +30,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "stylelint": {
+    "extends": "stylelint-config-recommended",
+    "rules": {
+      "at-rule-no-unknown": [true, {
+        "ignoreAtRules": ["import-normalise"]
+      }
+      ]
+    }
   }
 }
