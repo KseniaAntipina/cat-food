@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cat-food/static/css/main.16284782.chunk.css",
+    "main.js": "/cat-food/static/js/main.c3d35777.chunk.js",
+    "main.js.map": "/cat-food/static/js/main.c3d35777.chunk.js.map",
+    "runtime-main.js": "/cat-food/static/js/runtime-main.c3a21e33.js",
+    "runtime-main.js.map": "/cat-food/static/js/runtime-main.c3a21e33.js.map",
+    "static/js/2.0f1964a1.chunk.js": "/cat-food/static/js/2.0f1964a1.chunk.js",
+    "static/js/2.0f1964a1.chunk.js.map": "/cat-food/static/js/2.0f1964a1.chunk.js.map",
+    "index.html": "/cat-food/index.html",
+    "precache-manifest.dad32c011428df8c683d72373f3184af.js": "/cat-food/precache-manifest.dad32c011428df8c683d72373f3184af.js",
+    "service-worker.js": "/cat-food/service-worker.js",
+    "static/css/main.16284782.chunk.css.map": "/cat-food/static/css/main.16284782.chunk.css.map",
+    "static/js/2.0f1964a1.chunk.js.LICENSE.txt": "/cat-food/static/js/2.0f1964a1.chunk.js.LICENSE.txt",
+    "static/media/Cat.png": "/cat-food/static/media/Cat.07bcbc41.png",
+    "static/media/App.css": "/cat-food/static/media/Pattern@2x.d479314e.png",
+    "static/media/Product.module.css": "/cat-food/static/media/TrebuchetMS.34723a2f.woff",
+    "static/media/Catalog.module.css": "/cat-food/static/media/exo2thin.69e1c842.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3a21e33.js",
+    "static/js/2.0f1964a1.chunk.js",
+    "static/css/main.16284782.chunk.css",
+    "static/js/main.c3d35777.chunk.js"
+  ]
+}
