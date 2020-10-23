@@ -49,7 +49,7 @@ class Product extends React.Component {
         }
         let UnSelected = props => {
             return (<p className={`${styles.linkBtn} ${styles.textLink}`}>Чего сидишь? Порадуй котэ, <a
-                href='javascript:void(0);' onClick={props.onClick}>купи</a></p>)
+                href='' onClick={props.onClick}>купи</a></p>)
         }
 
         let changeColorBorder = props => {
